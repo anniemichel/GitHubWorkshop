@@ -4,6 +4,7 @@
 WINDOWS
 1. Copy this link into your internet browser: https://git-scm.com/download/win
 2. Click "Click here to download" and wait for the download to complete
+
 MAC
 1. Copy this link into your internet browser: https://git-scm.com/download/mac
 2. <<i dont have a mac which option is easiest lol???>>
