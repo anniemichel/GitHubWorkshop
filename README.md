@@ -6,8 +6,9 @@ WINDOWS
 2. Click "Click here to download" and wait for the download to complete
 
 MAC
-1. Copy this link into your internet browser: https://git-scm.com/download/mac
-2. <<i dont have a mac which option is easiest lol???>>
+1. Open the Terminal app on your Mac and run "git --version"
+2. Click "Install" and wait for the download to complete
+
 ### Getting Started
 1. Press the green button that says "Code" and press the symbol that looks like two squares to copy the url.
 2. Pull up your command prompt window. Type "git clone " and then use ctrl+v to paste the url. 
